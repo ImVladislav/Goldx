@@ -421,6 +421,7 @@ h1 {
    .text-section {
       margin: 20px 0;
       padding: 15px;
+      width: 80%;
    }
 }
 
